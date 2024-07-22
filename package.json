@@ -1,0 +1,14 @@
+{
+  "name": "wolf-league",
+  "version": "1.0.0",
+  "description": "Wolf League sunucusu için özel olarak üretilmiştir!",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.5.1"
+  }
+}
